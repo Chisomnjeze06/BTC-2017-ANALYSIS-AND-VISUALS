@@ -5,12 +5,19 @@ The Dataset file name is BTC 2017.csv.
 
 *2.Data Fields*
 The dataset consists of the following columns:
+
 •	Date: The trading time
+
 •	Open: The opening price of the dataset on the given date.
+
 •	High: The highest of the market that date.
+
 •	Low: The lowest price the market reached that date.
+
 •	Close: The closing price of the market.
+
 •	Volume BTC:
+
 •	Volume USD:
 
 
