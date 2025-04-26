@@ -1,6 +1,8 @@
 *1.Dataset Overview*
 This report provides analysis of a bitcoin dataset containing historical bitcoin trading data of the year 2017.Each record includes information such as the BTC Volume, USD Volume ,Open Price, Close price, Highest Price, Lowest Price, Profit/Loss Margin.
 The Dataset file name is BTC 2017.csv.
+
+
 *2.Data Fields*
 The dataset consists of the following columns:
 •	Date: The trading time
@@ -11,11 +13,14 @@ The dataset consists of the following columns:
 •	Volume BTC:
 •	Volume USD:
 
+
 *3. Data Cleaning*
 The data set was cleaned using ms excel, the cleaning process are as follows;
 •	The column containing the unit of the dataset(BTC_USD) was deleted.
 •	I checked for duplicates.
 •	Ensured that all price columns were in decimal format.
+
+
 *4.Summary Statistics*
 Basic statistical summaries were derived for key columns:
 	Profit/loss Margin
